@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mazhar000
 - 👀 I’m interested in LiDAR, RADAR, and CAMERA data processing and analysis.
 - 🌱 I’m currently learning LiDAR data processing and analysis
-- 💞️ I’m looking to collaborate on LiDAR, RADAR, and CAMERA based projects and other any IoT projects.
+- 💞️ I’m looking to collaborate on LiDAR, RADAR, and CAMERA based projects and any IoT projects.
 - 📫 Reach me here on github.
 
 <!---
